@@ -11,7 +11,7 @@ let addresses = [
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://raw.githubusercontent.com/Tivon521/v2ray/mast/addressesapi.txt?token=GHSAT0AAAAAACVKMUS76MBGHHIY7MDR7NLOZVI7UBQ', //可参考内容格式 自行搭建。
+	'https://raw.githubusercontent.com/Tivon521/Surge/master/ip.txt', //可参考内容格式 自行搭建。
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
 ];
 
@@ -24,7 +24,7 @@ let addressesnotls = [
 
 // 设置优选noTLS地址api接口
 let addressesnotlsapi = [
-	'https://raw.githubusercontent.com/Tivon521/v2ray/mast/addressesapi.txt?token=GHSAT0AAAAAACVKMUS76MBGHHIY7MDR7NLOZVI7UBQ', //可参考内容格式 自行搭建。
+	'https://raw.githubusercontent.com/Tivon521/Surge/master/ip.txt', //可参考内容格式 自行搭建。
 ];
 
 let DLS = 8;//速度下限
